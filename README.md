@@ -4,7 +4,7 @@ I'm **Thomas**, a passionate developer with a keen interest in web development.
 
 ### 🚀 Skills and Technologies
 - **Languages:** JavaScript, HTML, CSS, TypeScript
-- **Frameworks:** React
+- **Frameworks:** React, Next.js
 - **Tools:** Git, VS Code, node.js
 
 ### 🌟 Projects
