@@ -13,7 +13,5 @@ Explore my repositories to see a variety of projects, from interactive web apps 
 ### 📚 Learning and Growing
 I'm continuously learning and improving my skills. Currently diving deep into Kubernetes and AI. I love experimenting with new technologies and implementing innovative solutions.
 
-### 🤝 Let's Connect
-I'm always open to collaborating on exciting projects and connecting with like-minded individuals. Feel free to reach out to me via [LinkedIn](your-linkedin-url) or email.
 
-![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
