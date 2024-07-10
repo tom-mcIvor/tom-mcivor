@@ -9,7 +9,7 @@ I'm **Thomas**, a passionate developer with a keen interest in web development.
 
 ### 🌟 Projects
 Explore my projects, including a custom node.js group collaboration project: YeahBook, a tennis dashboard, two profile pages and
-loads of react training projects
+loads of React training projects
 
 ### 📚 Learning and Growing
 I'm continuously learning and improving my skills. I love experimenting with new technologies and implementing innovative solutions.
