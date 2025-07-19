@@ -5,7 +5,7 @@ I'm **Thomas**, a passionate developer with a keen interest in web development.
 ### 🚀 Skills and Technologies
 - **Languages:** JavaScript, HTML, CSS, TypeScript
 - **Frameworks:** React, Next.js
-- **Tools:** Git, VS Code, node.js
+- **Tools:** Git, VS Code, node.js, VIM
 
 ### 🌟 Projects
 Explore my projects, including a production ready custom node.js project: YeahBook, a tennis dashboard, two profile pages and
