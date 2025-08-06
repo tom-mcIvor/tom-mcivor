@@ -9,7 +9,7 @@ I'm **Thomas**, a passionate developer with a keen interest in web development.
 - **Tools:** Git, VS Code, Node.js, VIM, WSL Ubuntu, RooCode, Cursor, Aider
 
 ### 🌟 Projects
-Explore my projects, including a production-ready custom node.js project: YeahBook, a Tom's blog displaying my portfolio, two profile apps and
+Explore my projects, including a production-ready custom node.js project: YeahBook, a Tom's blog displaying my portfolio, two profile apps and,
 loads of React training projects
 
 ### 📚 Learning and Growing
