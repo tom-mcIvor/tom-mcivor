@@ -3,7 +3,7 @@
 I'm **Thomas**, a passionate developer with a keen interest in web development.
 
 ### 🚀 Skills and Technologies
-- **Languages:** [Link Text](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript, HTML, CSS, TypeScript
+- **Languages:** [logo](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript, HTML, CSS, TypeScript
 - **Frameworks:** Next.js, Vue.js, TailwindCSS 
 - **Libraries:** React, Redux 
 - **Tools:** Git, VS Code, Node.js, VIM, WSL Ubuntu, RooCode, Cursor, Aider
