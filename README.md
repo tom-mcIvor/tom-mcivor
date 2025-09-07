@@ -1,5 +1,5 @@
 # Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&width=435&lines=I'm+Thomas;Full+Stack+Developer;React+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 I'm **Thomas**, a passionate developer with a keen interest in web development.
 
 ### 🚀 Skills and Technologies
@@ -9,7 +9,7 @@ I'm **Thomas**, a passionate developer with a keen interest in web development.
 - **Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-WSL%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![RooCode](https://img.shields.io/badge/-RooCode-000000?style=flat-square&logo=code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Aider](https://img.shields.io/badge/-Aider-4B32C3?style=flat-square&logo=robot&logoColor=white)
-![Animation](https://example.com/animation.gif)
+
 ### 🌟 Projects
 Explore my projects, including a production-ready custom node.js project: YeahBook, a Tom's blog displaying my portfolio [![Tom's Blog](https://toms-blog-typescript.vercel.app/favicon.ico)](https://toms-blog-typescript.vercel.app/), two profile apps and,
 loads of React training projects
