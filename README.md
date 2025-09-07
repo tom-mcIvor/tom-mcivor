@@ -11,7 +11,7 @@ I'm **Thomas**, a passionate developer with a keen interest in web development.
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-WSL%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![RooCode](https://img.shields.io/badge/-RooCode-000000?style=flat-square&logo=code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Aider](https://img.shields.io/badge/-Aider-4B32C3?style=flat-square&logo=robot&logoColor=white)
 
 ### 🌟 Projects
-Explore my projects, including a production-ready custom node.js project: YeahBook, a Tom's blog displaying my portfolio [![TM Logo](https://toms-blog-typescript.vercel.app/logo.png)](https://toms-blog-typescript.vercel.app/), two profile apps and,
+Explore my projects, including a production-ready custom node.js project: YeahBook, a Tom's blog displaying my portfolio [![Tom's Blog](https://toms-blog-typescript.vercel.app/favicon.ico)](https://toms-blog-typescript.vercel.app/), two profile apps and,
 loads of React training projects
 
 ### 📚 Learning and Growing
