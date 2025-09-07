@@ -4,8 +4,8 @@ I'm **Thomas**, a passionate developer with a keen interest in web development.
 
 ### 🚀 Skills and Technologies
 - **Languages:** JavaScript, HTML, CSS, TypeScript
-- **Frameworks:** Next.js, Vue.js
-- **Libraries:** React, Redux, TailwindCSS 
+- **Frameworks:** Next.js, Vue.js, TailwindCSS 
+- **Libraries:** React, Redux 
 - **Tools:** Git, VS Code, Node.js, VIM, WSL Ubuntu, RooCode, Cursor, Aider
 
 ### 🌟 Projects
