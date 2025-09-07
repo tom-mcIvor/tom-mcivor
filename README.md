@@ -1,26 +1,13 @@
 # Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&width=435&lines=I'm+Thomas;Full+Stack+Developer;React+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
+I'm Thomas, a passionate developer with a keen interest in web development.
 ### 🚀 Skills and Technologies
-- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- **Frameworks:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-- **Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-WSL%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![RooCode](https://img.shields.io/badge/-RooCode-000000?style=flat-square&logo=code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Aider](https://img.shields.io/badge/-Aider-4B32C3?style=flat-square&logo=robot&logoColor=white)
-
+- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- Frameworks: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+- Libraries: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-WSL%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![RooCode](https://img.shields.io/badge/-RooCode-000000?style=flat-square&logo=code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Aider](https://img.shields.io/badge/-Aider-4B32C3?style=flat-square&logo=robot&logoColor=white)
 ### 🌟 Projects
 Explore my projects, including a production-ready custom node.js project: YeahBook, a Tom's blog displaying my portfolio [![Tom's Blog](https://toms-blog-typescript.vercel.app/favicon.ico)](https://toms-blog-typescript.vercel.app/), two profile apps and,
 loads of React training projects
-
 ### 📚 Learning and Growing
 I'm continuously learning and improving my skills. I love experimenting with new technologies and implementing innovative solutions.
 My superpower? Spending 3 hours fixing a problem that would take 5 minutes to Google. My kryptonite? CSS alignment and JavaScript's concept of "this".
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-mcIvor&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
